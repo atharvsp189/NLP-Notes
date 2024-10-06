@@ -23,8 +23,8 @@ The code within this repository focuses on Python implementations of various NLP
         * Lemmatization 
 * **Encoding:**
     * One-hot encoding
-    * Label encoding
-    * Frequency encoding (e.g., TF-IDF)
+    * Bag of Words
+    * TF-IDF
 * **Word Embeddings:**
     * Word2Vec (CBOW and Skip-gram)
       
