@@ -27,5 +27,4 @@ The code within this repository focuses on Python implementations of various NLP
     * TF-IDF
 * **Word Embeddings:**
     * Word2Vec (CBOW and Skip-gram)
-      
-Feel free to customize this README.md to reflect the exact structure and functionality of your NLP project!
+  
